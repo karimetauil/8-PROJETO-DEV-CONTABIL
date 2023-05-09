@@ -13,7 +13,7 @@
     
 <br>
 
-<img src="https://github.com/karimetauil/projeto---2-Easy-Shopping---pc/blob/main/capturas/Capturar%20Site%20inteiro.PNG?raw=true">
+<img src="----------------">
 
 <br>
 
@@ -23,10 +23,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML5
 - CSS3
+- JavaScript
 
 ## 💻 Projeto
 
-O Projeto Dev Contábil simula uma lanpage de uma ----------------------, onde é possível ------------ e também fazer contatos com o responsável.
+O Projeto Dev Contábil simula uma lanpage de uma empresa de Contabilidade, onde é possível ------------ e também fazer contatos com o responsável.
 
 ## 🔖 Layout
 
