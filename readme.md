@@ -1,6 +1,6 @@
-<h1 align="center"> Dev Contábil </h1>
+<h1 align="center">Dev Contábil</h1>
 
-<h4 align="center"> Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack <a href="https://rodolfomori.com.br/devclub" target="_blank"> Dev Club. </a> </h4>
+<h4 align="center">Projeto exclusivo, promovido por Karime Tauil, através de conteúdo disponibilizado pela Plataforma do Curso FullStack<a href="https://rodolfomori.com.br/devclub" target="_blank">Dev Club.</a> </h4>
 
 <br>
 
@@ -27,7 +27,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Projeto Dev Contábil simula uma lanpage de uma empresa de Contabilidade, onde é possível ------------ e também fazer contatos com o responsável.
+O Projeto Dev Contábil simula uma landing page de uma empresa de Contabilidade, onde é possível verificar todos os serviços prestados, há um breve relato sobre a mesma, e também consta um formulário com a possibilidade de fazer contatos com o responsáveis.
+
+## s2 Funcionalidades
+
+- Nessa landing page, clicando nos menus "Quem somos" e "Serviços", somos encaminhandos para respectiva parte da página;
+- Temos o menu "Contato", onde clicando no mesmo, surge um formulário para que a pessoa possa mandar sua dúvida, e também a função de impedir que o usuário possa enviar o formulário sem ter preenchido devidamente os campos solicitados;
+- No mesmo formulário também foi adicionada a funcionalidade que permite que o mesmo seja de fato enviado para um email registrado, através do site Formsubmit;
+- No logo da empresa "Dev Contábil" no cabeçalho da página, é possível clicar, assim atualizando a página.
 
 ## 🔖 Layout
 
